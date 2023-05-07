@@ -9,9 +9,22 @@
 <body>
     <form action="{{route('postlogin')}}" method="post">
         {{ csrf_field() }}
-        Email: <input type="text" name="email">
-        Password<input type="password" name="password">
-        <button type="submit">Submit</button>
+        <table>
+            <tr>
+                <td>Username</td>
+                <td>:</td>
+                <td><input type="text" name="email"></td>
+            </tr>
+            <tr>
+                <td>Password</td>
+                <td>:</td>
+                <td><input type="password" name="password"></td>
+            </tr>
+            <tr>
+                <td><button type="submit">Submit</button></td>
+            </tr>
+        </table>
+        
     </form>
 </body>
 </html>
