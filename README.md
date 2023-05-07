@@ -47,4 +47,4 @@ Menambahkan member baru dilakukan dengan mengisikan inisial dan memilih parent M
 
 Cek member dilakukan dengan memilih anggota MLM dalam dropdown yang kemudian akan dialihkan pada halaman Cek Member
 
-![alt text](https://github.com/tonyBred/panel_mlm/blob/master/public/img/cek-member-2.png)
+![alt text](https://github.com/tonyBred/panel_mlm/blob/master/public/img/cek-member2.png)
